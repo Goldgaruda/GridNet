@@ -32,6 +32,10 @@ GridNet/
 ├── data/                    # 📷 Sample satellite & aerial data (small-scale)
 ├── README.md                # 📘 Project documentation
 
+```
+
+---
+
 ## 🔬 Citation
 
 If you use this work, please cite:
