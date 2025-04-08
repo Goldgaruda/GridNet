@@ -33,7 +33,7 @@ GridNet/
 ├── README.md                # 📘 Project documentation
 
 
-🔬 Citation
+## 🔬 Citation
 If you use this work, please cite:
 @inproceedings{GridNet2025,
   title     = {GridNet: Vision-based Mitigation of GPS Attacks for Aerial Vehicles},
