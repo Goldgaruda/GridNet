@@ -32,10 +32,11 @@ GridNet/
 ├── data/                    # 📷 Sample satellite & aerial data (small-scale)
 ├── README.md                # 📘 Project documentation
 
----
-
 ## 🔬 Citation
+
 If you use this work, please cite:
+
+```bibtex
 @inproceedings{GridNet2025,
   title     = {GridNet: Vision-based Mitigation of GPS Attacks for Aerial Vehicles},
   author    = {Nian Xue and Zhen Li and Xianbin Hong and Christina Pöpper},
