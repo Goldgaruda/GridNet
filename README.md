@@ -38,7 +38,7 @@ GridNet/
 
 ## 🔬 Citation
 
-If you use this work, please cite:
+If you find this work useful to your research, please cite our work:
 
 ```bibtex
 @inproceedings{GridNet2025,
